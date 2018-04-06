@@ -16,4 +16,4 @@ Deployment rules.
 
 ## How To Contribute
 
-Contribution rules.
+Contribution rules. Part two of contribution rules. Part three of contribution rules.
