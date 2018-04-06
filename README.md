@@ -24,4 +24,4 @@ This is a bonus section. This is the content of the bonus section.
 
 ## Copyright
 
-2018 Git.Training.
+2018 GT
