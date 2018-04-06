@@ -21,3 +21,7 @@ Contribution rules. Part two of contribution rules. Part three of contribution r
 ## Bonus
 
 This is a bonus section. This is the content of the bonus section.
+
+## Copyright
+
+2018 Git.Training.
